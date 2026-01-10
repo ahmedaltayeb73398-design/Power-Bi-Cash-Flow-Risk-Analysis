@@ -1,0 +1,6 @@
+BranchID,BranchName,City
+B01,Dubai Central,Dubai
+B02,Abu Dhabi Main,Abu Dhabi
+B03,Sharjah Hub,Sharjah
+B04,Ajman Outlet,Ajman
+B05,Al Ain Branch,Al Ain

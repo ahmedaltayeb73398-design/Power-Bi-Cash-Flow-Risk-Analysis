@@ -1,0 +1,51 @@
+CustomerID,CustomerName,City
+C001,Michael Johnson,Dubai
+C002,Sarah Williams,Abu Dhabi
+C003,David Brown,Dubai
+C004,Emily Davis,Sharjah
+C005,James Miller,Ajman
+C006,Olivia Wilson,Dubai
+C007,Daniel Moore,Sharjah
+C008,Sophia Taylor,Abu Dhabi
+C009,Matthew Anderson,Dubai
+C010,Emma Thomas,Ajman
+C011,Christopher Jackson,Dubai
+C012,Ava White,Sharjah
+C013,Andrew Harris,Abu Dhabi
+C014,Mia Martin,Dubai
+C015,Joshua Thompson,Ajman
+C016,Isabella Garcia,Sharjah
+C017,Joseph Martinez,Dubai
+C018,Charlotte Robinson,Abu Dhabi
+C019,Anthony Clark,Dubai
+C020,Amelia Rodriguez,Sharjah
+C021,William Lewis,Ajman
+C022,Harper Lee,Dubai
+C023,David Walker,Abu Dhabi
+C024,Evelyn Hall,Sharjah
+C025,Daniel Allen,Dubai
+C026,Abigail Young,Ajman
+C027,Matthew King,Dubai
+C028,Elizabeth Wright,Sharjah
+C029,James Lopez,Abu Dhabi
+C030,Sofia Hill,Dubai
+C031,Alexander Scott,Sharjah
+C032,Victoria Green,Ajman
+C033,Benjamin Adams,Dubai
+C034,Grace Baker,Abu Dhabi
+C035,Samuel Nelson,Sharjah
+C036,Chloe Carter,Dubai
+C037,Henry Mitchell,Ajman
+C038,Lily Perez,Sharjah
+C039,Jack Roberts,Dubai
+C040,Zoey Turner,Abu Dhabi
+C041,Logan Phillips,Sharjah
+C042,Hannah Campbell,Dubai
+C043,Noah Parker,Ajman
+C044,Natalie Evans,Dubai
+C045,Lucas Edwards,Sharjah
+C046,Penelope Collins,Abu Dhabi
+C047,Elijah Stewart,Dubai
+C048,Riley Sanchez,Ajman
+C049,Caleb Morris,Sharjah
+C050,Aria Rogers,Dubai
