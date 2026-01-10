@@ -34,7 +34,7 @@ Here are screenshots of the dashboard:
 ![Page 1](Screenshots/Page1.jpg)
 ![Page 2](Screenshots/Page2.jpg)
 ![Page 3](Screenshots/Page3.jpg)
-![Data_model](Screenshots/Data_Model.jpg)
+![Data Model](Screenshots/Data_model.jpg)
 
 
 ---
